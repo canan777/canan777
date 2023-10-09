@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Ftr%2Ffoto%25C4%259Fraflar%2Fbilgisayar-yaz%25C4%25B1l%25C4%25B1m%25C4%25B1&psig=AOvVaw1LegJbOud8LePMI-QsLhZP&ust=1696945557887000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiu1PuM6YEDFQAAAAAdAAAAABAI
+https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/139691718/original/c4ed243b35e4fd2688390054515e1c20e0601e66/do-html-css-bootstrap-javascript-and-react-projects.png
                             
                             Hi👋. I'm Canan GÜNEŞ AKGÜL
 👯I am a classroom teacher who loves using computers and following technology.  
