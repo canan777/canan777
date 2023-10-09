@@ -15,4 +15,8 @@
 
 💯 I write Erasmus project. With Erasmus projects, I enable my fellow teachers and students to learn English and carry out a project. I develop their creativity. With Erasmus project, I have been on a job shadowing visit to Finland.
 
+👌I have been the founder of more than thirty eTwininng projects working with foreign countries. I have won numerous European quality labels for my school in these international projects.
+
+👀 I'm a determined, hardworking person who does not leave the table without finishing what I have started. I 'm entrepreneurial. I'm innovalite and creative. I'm a good team leader.
+
 ♕ Stay tuned to see my projects and learn more about me😉
