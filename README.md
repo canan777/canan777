@@ -20,3 +20,6 @@
 👀 I'm a determined, hardworking person who does not leave the table without finishing what I have started. I 'm entrepreneurial. I'm innovalite and creative. I'm a good team leader.
 
 ♕ Stay tuned to see my projects and learn more about me😉
+
+➤ How to reach me;
+canan1407@gmail.com
