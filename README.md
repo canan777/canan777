@@ -1,6 +1,6 @@
 [![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/139691718/original/c4ed243b35e4fd2688390054515e1c20e0601e66/do-html-css-bootstrap-javascript-and-react-projects.png)
                             
- Hi👋 I'm Canan GÜNEŞ AKGÜL ☼
+ Hi👋 I'm Canan GÜNEŞ AKGÜL 🌞
                             
 👯I am a classroom teacher who loves using computers and following technology.
 
@@ -12,9 +12,9 @@
 
 ❤ I have a master's degree with a thesis from the Deparment of Classroom Education. I received the title of science expert in the field of "Autism". I was selected for a project in which only 33 teachers from Turkey were selected. We have a book called "Empathy School".
 
-☀ I paint oil paintings, give courses and open painting exhibitions with my students.
+🏞 I paint oil paintings, give courses and open painting exhibitions with my students.
 
-💯 I write Erasmus project. With Erasmus projects, I enable my fellow teachers and students to learn English and carry out a project. I develop their creativity. With Erasmus project, I have been on a job shadowing visit to Finland.
+✈️ I write Erasmus project. With Erasmus projects, I enable my fellow teachers and students to learn English and carry out a project. I develop their creativity. With Erasmus project, I have been on a job shadowing visit to Finland.
 
 📝I have been the founder of more than thirty eTwininng projects working with foreign countries. I have won numerous European quality labels for my school in these international projects.
 
