@@ -1,7 +1,9 @@
 [![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/139691718/original/c4ed243b35e4fd2688390054515e1c20e0601e66/do-html-css-bootstrap-javascript-and-react-projects.png)
-                            
- Hi👋 I'm Canan GÜNEŞ AKGÜL 🌞
-                            
+<img src=
+"https://github.com/Melkitaulamunn/Melkitaulamunn/blob/main/Lucdamienga%20Giflucdamienga%20Sticker%20-%20Lucdamienga%20Giflucdamienga%20Hola%20-%20Discover%20%26%20Share%20GIFs.gif" widht:"250px">
+<h1>Hi👋 I'm Canan GÜNEŞ AKGÜL 🌞</h1>
+              
+                          
 👯I am a classroom teacher who loves using computers and following technology.
 
 🌱I live in, Turkey.
