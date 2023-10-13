@@ -26,7 +26,7 @@
 📫 How to reach me;
 ✉ canan1407@gmail.com
 
-![snake gif](https://github.com/canan777/canan777/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
