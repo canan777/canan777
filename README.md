@@ -46,8 +46,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/canan-güneş-akgül) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cnn_gunes06) [![facebook](https://img.shields.io/badge/facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/) 
-[linkedin]: https://linkedin.com/in/canan-güneş-akgül
-[gmail]: mail to:canan1407@gmail.com
+
 <br />
 
 
