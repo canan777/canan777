@@ -1,6 +1,6 @@
 ![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/139691718/original/c4ed243b35e4fd2688390054515e1c20e0601e66/do-html-css-bootstrap-javascript-and-react-projects.png)
 
-<h3>Hello world🌍</h3><h1>I'm Canan🌞</h1>
+<h3>Hello world🌍</h3><h2>I'm Canan🌞</h2>
               
                           
 👯I am a classroom teacher who loves using computers and following technology.
