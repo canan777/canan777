@@ -11,11 +11,11 @@
 
 ❤ I have a master's degree with a thesis from the Deparment of Classroom Education. I received the title of science expert in the field of "Autism". I was selected for a project in which only 33 teachers from Turkey were selected. We have a book called "Empathy School".
 
-🏞 I paint oil paintings, give courses and open painting exhibitions with my students.
-
 ✈️ I am the coordinator of many eTwinning and Erasmus projects. I have received many national and international awards and degrees with the projects I have done. With Erasmus projects, I enable my fellow teachers and students to learn English and carry out projects. I develop their creativity. With the Erasmus project, I visited Finland for on-the-job training.
 
 📝I have been the founder of more than thirty eTwininng projects working with foreign countries. I have won numerous European quality labels for my school in these international projects.
+
+🏞 I paint oil paintings, give courses and open painting exhibitions with my students.
 
 🎯I prefer to work as a team with team spirit and eliminate deficiencies together. I love working on innovative projects and problem solving. I am entrepreneurial and creative. I am focused on continuous learning and self-improvement.
 
