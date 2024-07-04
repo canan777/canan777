@@ -2,7 +2,7 @@
 
 <h2 align="center">Hello world🌍I'm Canan🌞</h2>
 
-💻I'm studying online Web / Mobile (iOS and Android) programming with online React / React Native via Udemig, which provides training in Turkey, Sweden and many parts of the world. I worked as a Front-End developer and React Developer at Arabuleu in Paris, France. I am experienced in software development. I have contributed to many projects with more than two years of experience. I have mastered HTML, CSS, Javascript web technologies. 
+💻I am taking online React / React Native Web / Mobile (iOS and Android) programming training through Udemig Software and Training Academy, which provides training in Turkey, Sweden and many parts of the world. I worked as a Front-End developer and React Developer at Arabuleu in Paris, France. I am working at Didiyos Software Company in Sweden. I am experienced in software development. I have contributed to many projects with more than two years of experience. I have a good command of HTML, CSS, Javascript, React/React Native web/mobile technologies. 
                           
 👯I am also a classroom teacher who likes to use computers and follows technology. 
 
