@@ -10,9 +10,7 @@ name:GenerateSnake
   Controls when the action will run. This action runs every 6 hours.
 
 
-on:
-
-  schedule:
+on:schedule:
 
       # every 6 hours
 
