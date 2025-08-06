@@ -6,25 +6,33 @@
 <h2 align="center">Hello🌍 I'm Canan🌞</h2>
 
 💻Hello, I'm Canan. I live in Konya / Turkey.
-I received Frontend/React/React Native and Web/Mobile (iOS and Android) programming training from internationally recognised software and training companies in Turkey, Sweden and many other parts of the world. I worked as a React Frontend Developer at Arabuleu in Paris/France for two years and as a React Native Developer at EmaarTechs in Istanbul for one year. I am currently developing projects as a React Native Developer at Didiyos Software Company in Sweden. I am experienced in software development. I have contributed to many projects with more than three years of experience. I use HTML, CSS, SCSS, JavaScript, React, React Native, Tailwind CSS, Bootstrap, Redux, Redux Toolkit and APIs to build dynamic web applications. As a self-disciplined, highly motivated, team-oriented and perfectionist software developer, I develop my skills in building dynamic and interactive web/mobile interfaces. My expertise lies in creating engaging and interactive user interfaces. One of the most important things that sets me apart is that I aim to work independently or within a team at peak performance and prioritise the user experience. I participate in every project with high motivation, try to stick to work discipline and constantly improve my skills to achieve the best possible performance.
- 
-                          
-👯I am also a classroom teacher who likes to use computers and follows technology. 
+React/React Native Developer & Classroom Teacher
 
-🤖 Although my students are at a young age, I develop projects for them to use many web 2.0 tools. I teach web 2.0 tools on the smart board in the classroom and support them with homework, exercises and computer games on mobile. When programming languages on the computer started to attract my attention, I turned to this kind of training. Creating brand new projects by writing codes made me very excited and increased my curiosity. 
+Frontend & Mobile Development: HTML, CSS, SCSS, JavaScript, React, React Native, Tailwind, Bootstrap, Redux, API
 
+Experience:
 
-❤ I have a master's degree with a thesis from the Deparment of Classroom Education. I received the title of science expert in the field of "Autism". I was selected for a project in which only 33 teachers from Turkey were selected. We have a book called "Empathy School".
+React Frontend Developer – Arabuleu, Paris (2 years)
 
-✈️ I am the coordinator of many eTwinning and Erasmus projects. I have received many national and international awards and degrees with the projects I have done. With Erasmus projects, I enable my fellow teachers and students to learn English and carry out projects. I develop their creativity. With the Erasmus project, I visited Finland for on-the-job training.
+React Native Developer – EmaarTechs, Istanbul (1 year)
 
-📝I have been the founder of more than thirty eTwininng projects working with foreign countries. I have won numerous European quality labels for my school in these international projects.
+React Native Developer – Didiyos Software, Sweden (Currently)
 
-🏞 I paint oil paintings, give courses and open painting exhibitions with my students.
+Expertise: Building dynamic, user-friendly web/mobile interfaces with a focus on UX.
 
-🎯I prefer to work as a team with team spirit and eliminate deficiencies together. I love working on innovative projects and problem solving. I am entrepreneurial and creative. I am focused on continuous learning and self-improvement.
+👩‍🏫 Teaching & Education
 
-🎨🏅📚In my free time I like to learn new things, do oil painting, read new books, do sports, spend time with my family and friends.
+Classroom teacher integrating Web 2.0 tools and technology in education.
+
+Master’s degree in “Autism”; co-author of the book Empathy School.
+
+🌍 Projects & Achievements
+
+Founder of 30+ eTwinning and Erasmus projects, recipient of many awards.
+
+Participated in Erasmus training in Finland.
+
+🎨 Hobbies: Oil painting, sports, reading, developing innovative projects.
 
 💫 Stay tuned to see my projects and learn more about me😉
 
