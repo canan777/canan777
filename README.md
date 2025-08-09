@@ -2,9 +2,9 @@
 
 
 
-<h2 align="center">I'm 🌞Canan🌞</h2>
+<h2 align="center">I'm Canan🌞</h2>
 
-<h4 align="center">Hello🌏, I'm Canan</h4>
+<h3 align="center">Hello🌏, I'm Canan</h3>
 
 Teacher🏅 FullStack Developer & React & React Native & Mobile( IOS&Android) Developer & Software Developer
 
