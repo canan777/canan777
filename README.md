@@ -1,11 +1,11 @@
-<img width="900" height="500" alt="cano" src="https://github.com/user-attachments/assets/9a05a95f-1b98-468e-9723-4cf0834666b9" />
+<img width="900" height="700" alt="cano" src="https://github.com/user-attachments/assets/9a05a95f-1b98-468e-9723-4cf0834666b9" />
 
 
 
 <h2 align="center">I'm 🌞Canan🌞</h2>
 
 💻Hello🌏, I'm Canan. I live in Konya / Turkey.
-React/React Native Developer & Classroom Teacher
+Teacher React&React Native Developer & Classroom Teacher
 
 Frontend & Mobile Development: HTML, CSS, SCSS, JavaScript, React, React Native, Tailwind, Bootstrap, Redux, API
 
