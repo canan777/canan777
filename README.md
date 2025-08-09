@@ -15,7 +15,7 @@ React Frontend Developer – Arabuleu, Paris (2 years)
 
 React Native Developer – EmaarTechs, Istanbul (1 year)
 
-React Native Developer – Didiyos Software, Sweden (Currently)
+Full Stack Developer – Didiyos Software, Sweden (Currently)
 
 Expertise: Building dynamic, user-friendly web/mobile interfaces with a focus on UX.
 
