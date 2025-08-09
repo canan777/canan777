@@ -1,4 +1,4 @@
-<img width="700" height="500" alt="cano" src="https://github.com/user-attachments/assets/9a05a95f-1b98-468e-9723-4cf0834666b9" />
+<img width="600" height="400" alt="cano" src="https://github.com/user-attachments/assets/9a05a95f-1b98-468e-9723-4cf0834666b9" />
 
 
 
