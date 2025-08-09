@@ -6,7 +6,7 @@
 
 <h3 align="center">Hello🌏, I'm Canan Güneş</h3>
 
-Teacher🏅 FullStack Developer & React & React Native & Mobile( IOS&Android) Developer & Software Developer
+Teacher🏅 FullStack Developer || React & React Native & Mobile( IOS&Android) Developer || Software Developer
 
 ✨Frontend & Mobile Development: HTML, CSS, SCSS, JavaScript, React, React Native, Tailwind, Bootstrap, Redux, API
 
