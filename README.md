@@ -4,33 +4,33 @@
 
 <h2 align="center">I'm 🌞Canan🌞</h2>
 
-💻Hello🌏, I'm Canan.
+          💻Hello🌏, I'm Canan.
 
 Teacher🏅 FullStack Developer & React & React Native & Mobile( IOS&Android) Developer & Software Developer
 
-Frontend & Mobile Development: HTML, CSS, SCSS, JavaScript, React, React Native, Tailwind, Bootstrap, Redux, API
+✨Frontend & Mobile Development: HTML, CSS, SCSS, JavaScript, React, React Native, Tailwind, Bootstrap, Redux, API
 
 Experience:
 
-React Frontend Developer – Arabuleu, Paris (2 years)
+✅React Frontend Developer – Arabuleu, Paris (2 years)
 
-React Native & Mobile Developer – EmaarTechs, Istanbul (1 year)
+✅React Native & Mobile Developer – EmaarTechs, Istanbul (1 year)
 
-Full Stack Developer – Didiyos Software, Sweden (Currently)
+✅Full Stack Developer – Didiyos Software, Sweden (Currently)
 
 Expertise: Building dynamic, user-friendly web/mobile interfaces with a focus on UX.
 
 👩‍🏫 Teaching & Education
 
-Classroom teacher integrating Web 2.0 tools and technology in education.
+✨Classroom teacher integrating Web 2.0 tools and technology in education.
 
-Master’s degree in “Autism”; co-author of the book Empathy School.
+✨Master’s degree in “Autism”; co-author of the book Empathy School.
 
 🌍 Projects & Achievements
 
-Founder of 30+ eTwinning and Erasmus projects, recipient of many awards.
+✨Founder of 30+ eTwinning and Erasmus projects, recipient of many awards.
 
-Participated in Erasmus training in Finland.
+✨Participated in Erasmus training in Finland.
 
 🎨 Hobbies: Oil painting, sports, reading, developing innovative projects.
 
