@@ -4,7 +4,7 @@
 
 <h2 align="center">I'm 🌞Canan🌞</h2>
 
-             💻Hello🌏, I'm Canan.
+<h4 align="center">Hello🌏, I'm Canan</h4>
 
 Teacher🏅 FullStack Developer & React & React Native & Mobile( IOS&Android) Developer & Software Developer
 
