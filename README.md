@@ -2,7 +2,7 @@
 
 
 
-<h2 align="center">I'm Canan🌞</h2>
+<h2 align="center">I'm 🌞Canan🌞</h2>
 
 💻Hello🌏, I'm Canan. I live in Konya / Turkey.
 React/React Native Developer & Classroom Teacher
