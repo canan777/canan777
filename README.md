@@ -5,7 +5,8 @@
 <h2 align="center">I'm 🌞Canan🌞</h2>
 
 💻Hello🌏, I'm Canan. I live in Konya / Turkey.
-Teacher🏅 FullStack Developer & React Native & Mobile Developer & Software Developer
+
+Teacher🏅 FullStack Developer & React & React Native & Mobile( IOS&Android) Developer & Software Developer
 
 Frontend & Mobile Development: HTML, CSS, SCSS, JavaScript, React, React Native, Tailwind, Bootstrap, Redux, API
 
