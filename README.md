@@ -13,7 +13,7 @@ Experience:
 
 React Frontend Developer – Arabuleu, Paris (2 years)
 
-React Native Developer – EmaarTechs, Istanbul (1 year)
+React Native & Mobile Developer – EmaarTechs, Istanbul (1 year)
 
 Full Stack Developer – Didiyos Software, Sweden (Currently)
 
