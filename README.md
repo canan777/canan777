@@ -4,7 +4,7 @@
 
 <h2 align="center">I'm 🌞Canan🌞</h2>
 
-💻Hello🌏, I'm Canan. I live in Konya / Turkey.
+💻Hello🌏, I'm Canan.
 
 Teacher🏅 FullStack Developer & React & React Native & Mobile( IOS&Android) Developer & Software Developer
 
