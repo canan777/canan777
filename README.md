@@ -2,7 +2,7 @@
 
 
 
-<h2 align="center"> Canan🌞</h2>
+<h2 align="center"> 🌞Canan🌞</h2>
 
 <h3 align="center">Hello🌏, I'm Canan Güneş</h3>
 
