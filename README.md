@@ -85,23 +85,14 @@ Expertise: Building dynamic, user-friendly web/mobile interfaces with a focus on
 <br />
 
 
-
-
 ## 📊 GitHub Stats:
 
-<div align="center">
-  
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=canan777&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=canan777&theme=tokyonight&hide_border=false" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canan777&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=canan777&theme=tokyonight&hide_border=false" height="200"/>
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canan777&theme=tokyonight&hide_border=false" height="200"/>
-
-</div>
-
+</p>
 
 
               
